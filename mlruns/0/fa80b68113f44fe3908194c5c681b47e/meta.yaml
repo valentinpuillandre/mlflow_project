@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/valen/OneDrive%20-%20Efrei/EFREI/EFREI%20M2/docker/ml_flow_project/mlruns/0/fa80b68113f44fe3908194c5c681b47e/artifacts
+end_time: 1734362020141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa80b68113f44fe3908194c5c681b47e
+run_name: rebellious-steed-994
+run_uuid: fa80b68113f44fe3908194c5c681b47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734362015865
+status: 3
+tags: []
+user_id: valen
